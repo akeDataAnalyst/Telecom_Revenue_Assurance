@@ -1,0 +1,6 @@
+# Credentials and temporary files
+.env
+*.log
+__pycache__/
+# Python dependencies
+venv/
